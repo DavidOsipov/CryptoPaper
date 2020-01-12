@@ -1,4 +1,4 @@
-**Note**: This paper has not been updated recently and may contain out-of-date and unsafe information. There are no plans to update it in the future. Should you want to take over this project, please get in touch with me on Wire at @Seb or via ProtonMail at root@cryptoseb.pw. Please exercise caution when deploying and using what is discussed below.
+**Note**: This paper has not been updated recently and may contain out-of-date and unsafe information. There are no plans to update it in the future. Should you want to take over this project, please get in touch with me on Keybase at @CryptoSeb or via ProtonMail at root@cryptoseb.pw. Please exercise caution when deploying and using what is discussed below. A paper was not a good deployment method for this content in hindsight. See: https://privacytools.io
 
 # The Crypto Paper
 `" Privacy, Security, and Anonymity For Every Internet User. "`
